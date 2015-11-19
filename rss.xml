@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ryan]]></title>
         <description><![CDATA[Ryan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ryan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 16:55:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 16:55:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ryan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/ryan/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">b0685248-b062-4a3a-8003-43641b570427</guid>
+            <pubDate>Thu, 19 Nov 2015 16:54:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skynet is here]]></title>
             <description><![CDATA[<h1>Skynet is here</h1>]]></description>
-            <link>undefinedskynet-is-here/index.html</link>
+            <link>https://thegrid.ai/ryan/skynet-is-here/index.html</link>
             <guid isPermaLink="false">49a3ef3e-19f2-4f72-962c-18e0b14330c3</guid>
             <pubDate>Thu, 19 Nov 2015 16:54:57 GMT</pubDate>
         </item>
